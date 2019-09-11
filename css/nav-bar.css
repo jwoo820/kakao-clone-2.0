@@ -17,7 +17,7 @@
 .nav .nav__list-link{
     position: relative;
 }
-.nav .nav__badge{
+/* .nav .nav__badge{
     position: absolute;
     top: -7px;
     right: -7px;
@@ -30,4 +30,4 @@
     justify-content: center;
     align-items: center;
     border-radius: 10px;
-}
+} */
